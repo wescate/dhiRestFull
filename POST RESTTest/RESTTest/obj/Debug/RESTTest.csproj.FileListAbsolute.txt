@@ -1,0 +1,25 @@
+D:\ProyectoWebApi\RESTTest\RESTTest\bin\Debug\RESTTest.dll
+D:\ProyectoWebApi\RESTTest\RESTTest\bin\Debug\RESTTest.pdb
+D:\ProyectoWebApi\RESTTest\RESTTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ProyectoWebApi\RESTTest\RESTTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\ProyectoWebApi\RESTTest\RESTTest\obj\Debug\RESTTest.dll
+D:\ProyectoWebApi\RESTTest\RESTTest\obj\Debug\RESTTest.pdb
+D:\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\RESTTest.dll
+D:\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\RESTTest.pdb
+D:\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\ProyectoWebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.csprojResolveAssemblyReference.cache
+D:\ProyectoWebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.dll
+D:\ProyectoWebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.pdb
+D:\max5\personales\Dictado\201502\DSD\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\RESTTest.dll
+D:\max5\personales\Dictado\201502\DSD\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\RESTTest.pdb
+D:\max5\personales\Dictado\201502\DSD\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\max5\personales\Dictado\201502\DSD\ProyectoWebApi\POST RESTTest\RESTTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\max5\personales\Dictado\201502\DSD\ProyectoWebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.csprojResolveAssemblyReference.cache
+D:\max5\personales\Dictado\201502\DSD\ProyectoWebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.dll
+D:\max5\personales\Dictado\201502\DSD\ProyectoWebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.pdb
+D:\UNI\Desarrollo Movil\WebApi\POST RESTTest\RESTTest\bin\Debug\RESTTest.dll
+D:\UNI\Desarrollo Movil\WebApi\POST RESTTest\RESTTest\bin\Debug\RESTTest.pdb
+D:\UNI\Desarrollo Movil\WebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.csprojResolveAssemblyReference.cache
+D:\UNI\Desarrollo Movil\WebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.dll
+D:\UNI\Desarrollo Movil\WebApi\POST RESTTest\RESTTest\obj\Debug\RESTTest.pdb
